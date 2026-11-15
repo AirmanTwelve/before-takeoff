@@ -1,0 +1,13 @@
+AVIATION PERFORMANCE CALCULATOR
+
+	A Web-Based Performance Calculator to Calculate Performance Data Based on Weather, Weight and Balance, and Other Factors for Private Pilots.
+
+	Developed For: General Aviation Performance Calculations.
+
+	Languages:
+		JavaScript, HTML, CSS.
+
+	Configure Prior to Use.
+
+Written by AirmanTwelve
+Apache License Version 2.0
